@@ -1,4 +1,4 @@
-# React 19 — Conditional Rendering (Vite)
+# React 19.2 - Lesson 6 - Conditional Rendering (Vite)
 
 A tiny, ready-to-run React 19 project demonstrating all core conditional rendering styles:
 - `if` statements returning different JSX
