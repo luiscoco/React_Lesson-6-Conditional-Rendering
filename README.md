@@ -8,6 +8,8 @@ A tiny, ready-to-run React 19 project demonstrating core conditional rendering s
 - Hide already-packed items (conditional skip via `null`)
 - Multiple conditional rendering patterns in one small codebase
 
+<img width="1252" height="751" alt="image" src="https://github.com/user-attachments/assets/da063ff6-96b5-43a9-9329-7b83fb88d705" />
+
 ### Feature: hide packed items with `null`
 
 `src/components/ItemList.jsx` skips rendering packed items when the checkbox is enabled:
